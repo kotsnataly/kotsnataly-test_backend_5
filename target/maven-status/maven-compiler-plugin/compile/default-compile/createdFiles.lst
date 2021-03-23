@@ -1,0 +1,9 @@
+ru\geekbrains\dto\Product.class
+ru\geekbrains\service\ProductService.class
+ru\geekbrains\dto\Category.class
+ru\geekbrains\base\enums\CategoryType.class
+ru\geekbrains\dto\ErrorBody.class
+ru\geekbrains\service\CategoryService.class
+ru\geekbrains\util\ConfigUtils.class
+ru\geekbrains\util\PrettyLogger.class
+ru\geekbrains\util\RetrofitUtils.class
